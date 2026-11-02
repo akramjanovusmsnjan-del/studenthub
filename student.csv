@@ -1,0 +1,502 @@
+| №   | Ism-familiya          | Login        | Parol | Guruh        |
+| --- | --------------------- | ------------ | ----- | ------------ |
+| 1   | Aziz Karimov          | aziz         | az123 | Dasturlash-1 |
+| 2   | Madina Ismoilova      | madina       | ma123 | Dasturlash-1 |
+| 3   | Akbar Abdullayev      | akbar        | ak123 | Dasturlash-1 |
+| 4   | Malika Rahimova       | malika       | ml123 | Dasturlash-1 |
+| 5   | Jasur Toshmatov       | jasur        | ja123 | Dasturlash-1 |
+| 6   | Mohira Saidova        | mohira       | mo123 | Dasturlash-1 |
+| 7   | Bekzod Qodirov        | bekzod       | be123 | Dasturlash-1 |
+| 8   | Shirin Nazarova       | shirin       | sh123 | Dasturlash-1 |
+| 9   | Diyor Ergashev        | diyor        | di123 | Dasturlash-1 |
+| 10  | Aziza Yusupova        | aziza        | az456 | Dasturlash-1 |
+| 11  | Bobur Aliyev          | bobur        | bo123 | Dasturlash-1 |
+| 12  | Nilufar Rasulova      | nilufar      | ni123 | Dasturlash-1 |
+| 13  | Kamron Umarov         | kamron       | ka123 | Dasturlash-1 |
+| 14  | Sabina Sobirova       | sabina       | sa123 | Dasturlash-1 |
+| 15  | Sardor Mamatov        | sardor       | sr123 | Dasturlash-1 |
+| 16  | Jasmina Usmonova      | jasmina      | js123 | Dasturlash-1 |
+| 17  | Temur Jalilov         | temur        | te123 | Dasturlash-1 |
+| 18  | Sevinch Tursunova     | sevinch      | se123 | Dasturlash-1 |
+| 19  | Umid Xolmatov         | umid         | um123 | Dasturlash-1 |
+| 20  | Zarina Oripova        | zarina       | za123 | Dasturlash-1 |
+| 21  | Farrux Akbarov        | farrux       | fa123 | Dasturlash-1 |
+| 22  | Durdona Bekmurodova   | durdona      | du123 | Dasturlash-1 |
+| 23  | Javohir Shukurov      | javohir      | ja456 | Dasturlash-1 |
+| 24  | Feruza Mirzayeva      | feruza       | fe123 | Dasturlash-1 |
+| 25  | Oybek Gʻaniyev        | oybek        | oy123 | Dasturlash-1 |
+| 26  | Amina Haydarova       | amina        | am123 | Dasturlash-1 |
+| 27  | Sanjar Sattorov       | sanjar       | sn123 | Dasturlash-1 |
+| 28  | Gulnoza Mahmudova     | gulnoza      | gu123 | Dasturlash-1 |
+| 29  | Zafar Azizov          | zafar        | za456 | Dasturlash-1 |
+| 30  | Iroda Hamidova        | iroda        | ir123 | Dasturlash-1 |
+| 31  | Muhammad Karimov      | muha         | mu123 | Dasturlash-2 |
+| 32  | Nodira Ismoilova      | nodira       | no123 | Dasturlash-2 |
+| 33  | Sherzod Abdullayev    | sherzod      | sh456 | Dasturlash-2 |
+| 34  | Munisa Rahimova       | munisa       | mu456 | Dasturlash-2 |
+| 35  | Ibrohim Toshmatov     | ibrohim      | ib123 | Dasturlash-2 |
+| 36  | Rayhona Saidova       | rayhona      | ra123 | Dasturlash-2 |
+| 37  | Doniyor Qodirov       | doniyor      | do123 | Dasturlash-2 |
+| 38  | Robiya Nazarova       | robia        | ro123 | Dasturlash-2 |
+| 39  | Islom Ergashev        | islom        | is123 | Dasturlash-2 |
+| 40  | Sitora Yusupova       | sitora       | si123 | Dasturlash-2 |
+| 41  | Umar Aliyev           | umar         | um456 | Dasturlash-2 |
+| 42  | Maftuna Rasulova      | maftuna      | mf123 | Dasturlash-2 |
+| 43  | Shoxrux Umarov        | shoxrux      | sx123 | Dasturlash-2 |
+| 44  | Zilola Sobirova       | zilola       | zi123 | Dasturlash-2 |
+| 45  | Asilbek Mamatov       | asilbek      | as123 | Dasturlash-2 |
+| 46  | Nafisa Usmonova       | nafisa       | na123 | Dasturlash-2 |
+| 47  | Anvar Jalilov         | anvar        | an123 | Dasturlash-2 |
+| 48  | Yasmina Tursunova     | yasmina      | ya123 | Dasturlash-2 |
+| 49  | Murod Xolmatov        | murod        | mr123 | Dasturlash-2 |
+| 50  | Hadicha Oripova       | hadicha      | ha123 | Dasturlash-2 |
+| 51  | Abubakr Akbarov       | abubakr      | ab123 | Dasturlash-2 |
+| 52  | Marjona Bekmurodova   | marjona      | mj123 | Dasturlash-2 |
+| 53  | Firdavs Shukurov      | firdavs      | fi123 | Dasturlash-2 |
+| 54  | Kamila Mirzayeva      | kamila       | km123 | Dasturlash-2 |
+| 55  | Ozod Gʻaniyev         | ozod         | oz123 | Dasturlash-2 |
+| 56  | Zebo Haydarova        | zebo         | ze123 | Dasturlash-2 |
+| 57  | Zohid Sattorov        | zohid        | zo123 | Dasturlash-2 |
+| 58  | Shabnam Mahmudova     | shabnam      | sb123 | Dasturlash-2 |
+| 59  | Laziz Azizov          | laziz        | la123 | Dasturlash-2 |
+| 60  | Mubina Hamidova       | mubina       | mb123 | Dasturlash-2 |
+| 61  | Muhammadali Karimov   | muhammadali  | ma456 | Dasturlash-3 |
+| 62  | Nigina Ismoilova      | nigina       | ni456 | Dasturlash-3 |
+| 63  | Suhrob Abdullayev     | suhrob       | su123 | Dasturlash-3 |
+| 64  | Lola Rahimova         | lola         | lo123 | Dasturlash-3 |
+| 65  | Miraziz Toshmatov     | miraziz      | mi123 | Dasturlash-3 |
+| 66  | Umida Saidova         | umida        | ui123 | Dasturlash-3 |
+| 67  | Elyor Qodirov         | elyor        | el123 | Dasturlash-3 |
+| 68  | Nargiza Nazarova      | nargiza      | nr123 | Dasturlash-3 |
+| 69  | Said Ergashev         | said         | sa456 | Dasturlash-3 |
+| 70  | Shukrona Yusupova     | shukrona     | sk123 | Dasturlash-3 |
+| 71  | Jahongir Aliyev       | jahongir     | jh123 | Dasturlash-3 |
+| 72  | Ruxshona Rasulova     | ruxshona     | ru123 | Dasturlash-3 |
+| 73  | Komil Umarov          | komil        | ko123 | Dasturlash-3 |
+| 74  | Samira Sobirova       | samira       | sm123 | Dasturlash-3 |
+| 75  | Maqsud Mamatov        | maqsud       | mq123 | Dasturlash-3 |
+| 76  | Gulrux Usmonova       | gulrux       | gr123 | Dasturlash-3 |
+| 77  | Rustam Jalilov        | rustam       | rs123 | Dasturlash-3 |
+| 78  | Oydin Tursunova       | oydin        | od123 | Dasturlash-3 |
+| 79  | Imron Xolmatov        | imron        | im123 | Dasturlash-3 |
+| 80  | Ziyoda Oripova        | ziyoda       | zy123 | Dasturlash-3 |
+| 81  | Shahzod Akbarov       | shahzod      | sz123 | English-1    |
+| 82  | Mehriniso Bekmurodova | mehriniso    | me123 | English-1    |
+| 83  | Yusuf Shukurov        | yusuf        | yu123 | English-1    |
+| 84  | Sadoqat Mirzayeva     | sadoqat      | sd123 | English-1    |
+| 85  | Mironshoh Gʻaniyev    | mironshoh    | ms123 | English-1    |
+| 86  | Mavluda Haydarova     | mavluda      | mv123 | English-1    |
+| 87  | Abdurahmon Sattorov   | abdurahmon   | ar123 | English-1    |
+| 88  | Shahrizoda Mahmudova  | shahrizoda   | sr456 | English-1    |
+| 89  | Muhammadamin Azizov   | muhammadamin | mn123 | English-1    |
+| 90  | Asal Hamidova         | asal         | as456 | English-1    |
+| 91  | Anvar Boboyev         | anvar2       | an456 | English-1    |
+| 92  | Maftuna Eshonqulova   | maftuna2     | mf456 | English-1    |
+| 93  | Bekzod Fayziyev       | bekzod2      | bz123 | English-1    |
+| 94  | Shabnam Iskandarova   | shabnam2     | sb456 | English-1    |
+| 95  | Diyor Jo‘rayev        | diyor2       | dy123 | English-1    |
+| 96  | Nafisa Kamilova       | nafisa2      | nf123 | English-1    |
+| 97  | Kamron Lutfullayev    | kamron2      | kr123 | English-1    |
+| 98  | Jasmina Murodova      | jasmina2     | jm123 | English-1    |
+| 99  | Sardor Nurmatov       | sardor2      | sr789 | English-1    |
+| 100 | Sabina Olimova        | sabina2      | sb789 | English-1    |
+| 101 | Akmal Karimov        | akmal        | ak101 | English-1 |
+| 102 | Durdona Ismoilova    | durdona2     | du101 | English-1 |
+| 103 | Farrux Abdullayev    | farux        | fa101 | English-1 |
+| 104 | Mohira Rahimova      | mohira2      | mo101 | English-1 |
+| 105 | Behruz Toshmatov     | behruz2      | be101 | English-1 |
+| 106 | Saida Saidova        | saida        | sa101 | English-1 |
+| 107 | Doniyor Qodirov      | doniyor2     | do101 | English-1 |
+| 108 | Yasmina Nazarova     | yasmina2     | ya101 | English-1 |
+| 109 | Temur Ergashev       | temur2       | te101 | English-1 |
+| 110 | Feruza Yusupova      | feruza2      | fe101 | English-1 |
+| 111 | Islom Aliyev         | islom2       | is101 | English-1 |
+| 112 | Malika Rasulova      | malika2      | ml101 | English-1 |
+| 113 | Bobur Umarov         | bobur2       | bo101 | English-1 |
+| 114 | Zilola Sobirova      | zilola2      | zi101 | English-1 |
+| 115 | Sanjar Mamatov       | sanjar2      | sn101 | English-1 |
+| 116 | Munisa Usmonova      | munisa2      | mu101 | English-1 |
+| 117 | Umid Jalilov         | umid2        | um101 | English-1 |
+| 118 | Aziza Tursunova      | aziza2       | az102 | English-1 |
+| 119 | Oybek Xolmatov       | oybek2       | oy101 | English-1 |
+| 120 | Rayhona Oripova      | rayhona2     | ra101 | English-1 |
+| 121 | Javohir Akbarov      | javohir2     | ja101 | English-1 |
+| 122 | Shirin Bekmurodova   | shirin2      | sh102 | English-1 |
+| 123 | Rustam Shukurov      | rustam2      | ru101 | English-1 |
+| 124 | Nafisa Mirzayeva     | nafisa3      | na101 | English-1 |
+| 125 | Zafar Gʻaniyev       | zafar2       | za101 | English-1 |
+| 126 | Iroda Haydarova      | iroda2       | ir101 | English-1 |
+| 127 | Akbar Sattorov       | akbar2       | ak101 | English-1 |
+| 128 | Samira Mahmudova     | samira2      | sm101 | English-1 |
+| 129 | Sardor Azizov        | sardor3      | sa102 | English-1 |
+| 130 | Gulnoza Hamidova     | gulnoza2     | gu101 | English-1 |
+| 131 | Abdulloh Karimov     | abdulloh2    | ab101 | English-2 |
+| 132 | Madina Ismoilova     | madina2      | ma101 | English-2 |
+| 133 | Asad Abdullayev      | asad2        | as102 | English-2 |
+| 134 | Nigina Rahimova      | nigina2      | ni101 | English-2 |
+| 135 | Ibrohim Toshmatov    | ibrohim2     | ib101 | English-2 |
+| 136 | Sabina Saidova       | sabina3      | sb101 | English-2 |
+| 137 | Kamron Qodirov       | kamron3      | ka101 | English-2 |
+| 138 | Sitora Nazarova      | sitora2      | si101 | English-2 |
+| 139 | Firdavs Ergashev     | firdavs2     | fi101 | English-2 |
+| 140 | Umida Yusupova       | umida2       | ui101 | English-2 |
+| 141 | Shoxrux Aliyev       | shoxrux2     | sx101 | English-2 |
+| 142 | Maftuna Rasulova     | maftuna3     | mf101 | English-2 |
+| 143 | Murod Umarov         | murod2       | mr101 | English-2 |
+| 144 | Jasmina Sobirova     | jasmina3     | jm101 | English-2 |
+| 145 | Zohid Mamatov        | zohid2       | zo101 | English-2 |
+| 146 | Zarina Usmonova      | zarina2      | zr101 | English-2 |
+| 147 | Anvar Jalilov        | anvar3       | an101 | English-2 |
+| 148 | Shahrizoda Tursunova | shahrizoda2  | sr101 | English-2 |
+| 149 | Komil Xolmatov       | komil2       | ko101 | English-2 |
+| 150 | Mubina Oripova       | mubina2      | mb101 | English-2 |
+| 151 | Elyor Akbarov        | elyor2       | el101 | English-2 |
+| 152 | Hadicha Bekmurodova  | hadicha2     | ha101 | English-2 |
+| 153 | Ozod Shukurov        | ozod2        | oz101 | English-2 |
+| 154 | Nargiza Mirzayeva    | nargiza2     | nr101 | English-2 |
+| 155 | Muhammad Karimov     | muhammad2    | mu102 | English-2 |
+| 156 | Sevinch Gʻaniyeva    | sevinch2     | se101 | English-2 |
+| 157 | Said Haydarov        | said2        | sd101 | English-2 |
+| 158 | Zebo Sattorova       | zebo2        | ze101 | English-2 |
+| 159 | Jahongir Mahmudov    | jahongir2    | jh101 | English-2 |
+| 160 | Shukrona Azizova     | shukrona2    | sk101 | English-2 |
+| 161 | Asilbek Hamidov      | asilbek2     | as101 | English-2 |
+| 162 | Lola Boboyeva        | lola2        | lo101 | English-2 |
+| 163 | Abubakr Eshonqulov   | abubakr2     | ab102 | English-2 |
+| 164 | Gulrux Fayziyeva     | gulrux2      | gr101 | English-2 |
+| 165 | Sherzod Iskandarov   | sherzod2     | sh101 | English-2 |
+| 166 | Yasmina Jo‘rayeva    | yasmina3     | ys101 | English-2 |
+| 167 | Miraziz Kamilov      | miraziz2     | mi101 | English-2 |
+| 168 | Amina Lutfullayeva   | amina2       | am101 | English-2 |
+| 169 | Umar Murodov         | umar2        | um102 | English-2 |
+| 170 | Durdona Nurmatova    | durdona3     | du102 | English-2 |
+| 171 | Laziz Olimov         | laziz2       | la101 | English-2 |
+| 172 | Nafisa Po‘latova     | nafisa4      | nf101 | English-2 |
+| 173 | Muhammadali Qurbonov | muhammadali2 | ma102 | English-2 |
+| 174 | Ruxshona Raxmonova   | ruxshona2    | ru102 | English-2 |
+| 175 | Suhrob Soliyev       | suhrob2      | su101 | English-2 |
+| 176 | Ziyoda Temirova      | ziyoda2      | zy101 | English-2 |
+| 177 | Mironshoh Valiyev    | mironshoh2   | ms101 | English-2 |
+| 178 | Shabnam Yo‘ldosheva  | shabnam3     | sb102 | English-2 |
+| 179 | Anvar Zokirov        | anvar4       | an102 | English-2 |
+| 180 | Kamila Abduqodirova  | kamila2      | km101 | English-2 |
+| 181 | Diyor Mansurov       | diyor3       | dy101 | English-3 |
+| 182 | Mehriniso Karimova   | mehriniso2   | me101 | English-3 |
+| 183 | Bekzod Ismoilov      | bekzod3      | bz101 | English-3 |
+| 184 | Shabnam Abdullayeva  | shabnam4     | sb103 | English-3 |
+| 185 | Akmal Rahimov        | akmal2       | ak102 | English-3 |
+| 186 | Marjona Toshmatova   | marjona2     | mj101 | English-3 |
+| 187 | Jahongir Saidov      | jahongir3    | jh102 | English-3 |
+| 188 | Feruza Qodirova      | feruza3      | fe102 | English-3 |
+| 189 | Doniyor Nazarov      | doniyor3     | dn101 | English-3 |
+| 190 | Shukrona Ergasheva   | shukrona3    | sk102 | English-3 |
+| 191 | Temur Yusupov        | temur3       | tm101 | English-3 |
+| 192 | Sabina Aliyeva       | sabina4      | sb104 | English-3 |
+| 193 | Rustam Rasulov       | rustam3      | rs101 | English-3 |
+| 194 | Munisa Umarova       | munisa2      | mu103 | English-3 |
+| 195 | Firdavs Sobirov      | firdavs3     | fd101 | English-3 |
+| 196 | Mohira Mamatova      | mohira3      | mo102 | English-3 |
+| 197 | Zafar Usmonov        | zafar3       | zf101 | English-3 |
+| 198 | Aziza Jalilova       | aziza3       | az103 | English-3 |
+| 199 | Umid Tursunov        | umid3        | um103 | English-3 |
+| 200 | Nilufar Xolmatova    | nilufar2     | ni102 | English-3 |
+| 201 | Aziz Oripov              | aziz2         | az201 | Dasturlash-1 |
+| 202 | Madina Karimova          | madina3       | ma201 | Dasturlash-1 |
+| 203 | Akbar Akbarov            | akbar3        | ak201 | Dasturlash-1 |
+| 204 | Malika Ismoilova         | malika3       | ml201 | Dasturlash-1 |
+| 205 | Jasur Abdullayev         | jasur2        | ja201 | Dasturlash-1 |
+| 206 | Mohira Rahimova          | mohira4       | mo201 | Dasturlash-1 |
+| 207 | Bekzod Toshmatov         | bekzod4       | be201 | Dasturlash-1 |
+| 208 | Shirin Saidova           | shirin3       | sh201 | Dasturlash-1 |
+| 209 | Diyor Qodirov            | diyor4        | di201 | Dasturlash-1 |
+| 210 | Aziza Nazarova           | aziza4        | az204 | Dasturlash-1 |
+| 211 | Bobur Ergashev           | bobur3        | bo201 | Dasturlash-1 |
+| 212 | Nilufar Yusupova         | nilufar3      | ni201 | Dasturlash-1 |
+| 213 | Kamron Aliyev            | kamron4       | ka201 | Dasturlash-1 |
+| 214 | Sabina Rasulova          | sabina5       | sa201 | Dasturlash-1 |
+| 215 | Sardor Umarov            | sardor4       | sr201 | Dasturlash-1 |
+| 216 | Jasmina Sobirova         | jasmina4      | js201 | Dasturlash-1 |
+| 217 | Temur Mamatov            | temur4        | te201 | Dasturlash-1 |
+| 218 | Sevinch Usmonova         | sevinch3      | se201 | Dasturlash-1 |
+| 219 | Umid Jalilov             | umid4         | um201 | Dasturlash-1 |
+| 220 | Zarina Tursunova         | zarina3       | za201 | Dasturlash-1 |
+| 221 | Farrux Xolmatov          | farrux2       | fa201 | Dasturlash-1 |
+| 222 | Durdona Oripova          | durdona4      | du201 | Dasturlash-1 |
+| 223 | Javohir Akbarov          | javohir3      | ja202 | Dasturlash-1 |
+| 224 | Feruza Bekmurodova       | feruza4       | fe201 | Dasturlash-1 |
+| 225 | Oybek Shukurov           | oybek3        | oy201 | Dasturlash-1 |
+| 226 | Amina Mirzayeva          | amina3        | am201 | Dasturlash-1 |
+| 227 | Sanjar Gʻaniyev          | sanjar3       | sn201 | Dasturlash-1 |
+| 228 | Gulnoza Haydarova        | gulnoza3      | gu201 | Dasturlash-1 |
+| 229 | Zafar Sattorov           | zafar4        | za202 | Dasturlash-1 |
+| 230 | Iroda Mahmudova          | iroda3        | ir201 | Dasturlash-1 |
+| 231 | Muhammad Azizov          | muhammad3     | mu201 | Dasturlash-2 |
+| 232 | Nodira Hamidova          | nodira2       | no201 | Dasturlash-2 |
+| 233 | Sherzod Boboyev          | sherzod3      | sh201 | Dasturlash-2 |
+| 234 | Munisa Eshonqulova       | munisa3       | mu202 | Dasturlash-2 |
+| 235 | Ibrohim Fayziyev         | ibrohim3      | ib201 | Dasturlash-2 |
+| 236 | Rayhona Iskandarova      | rayhona3      | ra201 | Dasturlash-2 |
+| 237 | Doniyor Jo‘rayev         | doniyor4      | do201 | Dasturlash-2 |
+| 238 | Robiya Kamilova          | robia2        | ro201 | Dasturlash-2 |
+| 239 | Islom Lutfullayev        | islom3        | is201 | Dasturlash-2 |
+| 240 | Sitora Murodova          | sitora3       | si201 | Dasturlash-2 |
+| 241 | Umar Nurmatov            | umar3         | um202 | Dasturlash-2 |
+| 242 | Maftuna Olimova          | maftuna4      | mf201 | Dasturlash-2 |
+| 243 | Shoxrux Po‘latov         | shoxrux3      | sx201 | Dasturlash-2 |
+| 244 | Zilola Qurbonova         | zilola3       | zi201 | Dasturlash-2 |
+| 245 | Asilbek Raxmonov         | asilbek3      | as201 | Dasturlash-2 |
+| 246 | Nafisa Soliyeva          | nafisa5       | na201 | Dasturlash-2 |
+| 247 | Anvar Temirov            | anvar5        | an201 | Dasturlash-2 |
+| 248 | Yasmina Valiyeva         | yasmina4      | ya201 | Dasturlash-2 |
+| 249 | Murod Yo‘ldoshev         | murod3        | mr201 | Dasturlash-2 |
+| 250 | Hadicha Zokirova         | hadicha3      | ha201 | Dasturlash-2 |
+| 251 | Madina Karimova       | madina     | ma251 |
+| 252 | Aziz Ismoilov         | aziz       | az251 |
+| 253 | Malika Abdullayeva    | malika     | ml251 |
+| 254 | Akbar Rahimov         | akbar      | ak251 |
+| 255 | Shirin Toshmatova     | shirin     | sh251 |
+| 256 | Bekzod Saidov         | bekzod     | be251 |
+| 257 | Mohira Qodirova       | mohira     | mo251 |
+| 258 | Jasur Nazarov         | jasur      | ja251 |
+| 259 | Aziza Ergasheva       | aziza      | az252 |
+| 260 | Bobur Yusupov         | bobur      | bo251 |
+| 261 | Nilufar Aliyeva       | nilufar    | ni251 |
+| 262 | Kamron Rasulov        | kamron     | ka251 |
+| 263 | Sabina Umarova        | sabina     | sa251 |
+| 264 | Sardor Sobirov        | sardor     | sr251 |
+| 265 | Jasmina Mamatova      | jasmina    | js251 |
+| 266 | Temur Usmonov         | temur      | te251 |
+| 267 | Sevinch Jalilova      | sevinch    | se251 |
+| 268 | Umid Tursunov         | umid       | um251 |
+| 269 | Zarina Xolmatova      | zarina     | za251 |
+| 270 | Farrux Oripov         | farrux     | fa251 |
+| 271 | Durdona Akbarova      | durdona    | du251 |
+| 272 | Javohir Bekmurodov    | javohir    | ja252 |
+| 273 | Feruza Shukurova      | feruza     | fe251 |
+| 274 | Oybek Mirzayev        | oybek      | oy251 |
+| 275 | Amina Gʻaniyeva       | amina      | am251 |
+| 276 | Sanjar Haydarov       | sanjar     | sn251 |
+| 277 | Gulnoza Sattorova     | gulnoza    | gu251 |
+| 278 | Zafar Mahmudov        | zafar      | za252 |
+| 279 | Iroda Azizova         | iroda      | ir251 |
+| 280 | Muhammad Hamidov      | muhammad   | mu251 |
+| 281 | Nodira Boboyeva       | nodira     | no251 |
+| 282 | Sherzod Eshonqulov    | sherzod    | sh251 |
+| 283 | Munisa Fayziyeva      | munisa     | mu252 |
+| 284 | Ibrohim Iskandarov    | ibrohim    | ib251 |
+| 285 | Rayhona Jo‘rayeva     | rayhona    | ra251 |
+| 286 | Doniyor Kamilov       | doniyor    | do251 |
+| 287 | Robiya Lutfullayeva   | robia      | ro251 |
+| 288 | Islom Murodov         | islom      | is251 |
+| 289 | Sitora Nurmatova      | sitora     | si251 |
+| 290 | Umar Olimov           | umar       | um252 |
+| 291 | Maftuna Po‘latova     | maftuna    | mf251 |
+| 292 | Shoxrux Qurbonov      | shoxrux    | sx251 |
+| 293 | Zilola Raxmonova      | zilola     | zi251 |
+| 294 | Asilbek Soliyev       | asilbek    | as251 |
+| 295 | Nafisa Temirova       | nafisa     | na251 |
+| 296 | Anvar Valiyev         | anvar      | an251 |
+| 297 | Yasmina Yo‘ldosheva   | yasmina    | ya251 |
+| 298 | Murod Zokirov         | murod      | mr251 |
+| 299 | Hadicha Abduqodirova  | hadicha    | ha251 |
+| 300 | Abubakr Mansurov      | abubakr    | ab251 |
+| 301 | Marjona Karimova      | marjona    | mj251 |
+| 302 | Firdavs Ismoilov      | firdavs    | fi251 |
+| 303 | Kamila Abdullayeva    | kamila     | km251 |
+| 304 | Ozod Rahimov          | ozod       | oz251 |
+| 305 | Zebo Toshmatova       | zebo       | ze251 |
+| 306 | Zohid Saidov          | zohid      | zo251 |
+| 307 | Shabnam Qodirova      | shabnam    | sb251 |
+| 308 | Laziz Nazarov         | laziz      | la251 |
+| 309 | Mubina Ergasheva      | mubina     | mb251 |
+| 310 | Suhrob Yusupov        | suhrob     | su251 |
+| 311 | Lola Aliyeva          | lola       | lo251 |
+| 312 | Miraziz Rasulov       | miraziz    | mi251 |
+| 313 | Umida Umarova         | umida      | ui251 |
+| 314 | Elyor Sobirov         | elyor      | el251 |
+| 315 | Nargiza Mamatova      | nargiza    | nr251 |
+| 316 | Said Usmonov          | said       | sa252 |
+| 317 | Shukrona Jalilova     | shukrona   | sk251 |
+| 318 | Jahongir Tursunov     | jahongir   | jh251 |
+| 319 | Ruxshona Xolmatova    | ruxshona   | ru251 |
+| 320 | Komil Oripov          | komil      | ko251 |
+| 321 | Samira Akbarova       | samira     | sm251 |
+| 322 | Maqsud Bekmurodov     | maqsud     | mq251 |
+| 323 | Gulrux Shukurova      | gulrux     | gr251 |
+| 324 | Rustam Mirzayev       | rustam     | rs251 |
+| 325 | Oydin Gʻaniyeva       | oydin      | od251 |
+| 326 | Imron Haydarov        | imron      | im252 |
+| 327 | Ziyoda Sattorova      | ziyoda     | zy251 |
+| 328 | Shahzod Mahmudov      | shahzod    | sz251 |
+| 329 | Mehriniso Azizova     | mehriniso  | me251 |
+| 330 | Yusuf Hamidov         | yusuf      | yu251 |
+| 331 | Sadoqat Boboyeva      | sadoqat    | sd251 |
+| 332 | Mironshoh Eshonqulov  | mironshoh  | ms251 |
+| 333 | Mavluda Fayziyeva     | mavluda    | mv251 |
+| 334 | Abdurahmon Iskandarov | abdurahmon | ar251 
+| 335 | Shahrizoda Jo‘rayeva | shahrizoda   | sr251 |
+| 336 | Muhammadamin Kamilov | muhammadamin | mn251 |
+| 337 | Asal Lutfullayeva    | asal         | as252 |
+| 338 | Akmal Murodov        | akmal        | ak252 |
+| 339 | Durdona Nurmatova    | durdona2     | du252 |
+| 340 | Behruz Olimov        | behruz       | be252 |
+| 341 | Saida Po‘latova      | saida        | si252 |
+| 342 | Doniyor Qurbonov     | doniyor2     | do252 |
+| 343 | Shukrona Raxmonova   | shukrona2    | sk252 |
+| 344 | Temur Soliyev        | temur2       | te252 |
+| 345 | Yasmina Temirova     | yasmina2     | ya252 |
+| 346 | Islom Valiyev        | islom2       | is252 |
+| 347 | Sabina Yo‘ldosheva   | sabina2      | sb252 |
+| 348 | Rustam Zokirov       | rustam2      | ru252 |
+| 349 | Munisa Abduqodirova  | munisa2      | mu253 |
+| 350 | Firdavs Mansurov     | firdavs2     | fi252 |
+| 351 | Mohira Karimova      | mohira2      | mo252 |
+| 352 | Zafar Ismoilov       | zafar2       | za253 |
+| 353 | Aziza Abdullayeva    | aziza2       | az253 |
+| 354 | Umid Rahimov         | umid2        | um253 |
+| 355 | Nilufar Toshmatova   | nilufar2     | ni252 |
+| 356 | Sardor Saidov        | sardor2      | sr252 |
+| 357 | Malika Qodirova      | malika2      | ml252 |
+| 358 | Bekzod Nazarov       | bekzod2      | bz251 |
+| 359 | Shirin Ergasheva     | shirin2      | sh252 |
+| 360 | Jasur Yusupov        | jasur2       | ja253 |
+| 361 | Rayhona Aliyeva      | rayhona2     | ra252 |
+| 362 | Bobur Rasulov        | bobur2       | bo252 |
+| 363 | Feruza Umarova       | feruza2      | fe252 |
+| 364 | Kamron Sobirov       | kamron2      | ka252 |
+| 365 | Zarina Mamatova      | zarina2      | zr251 |
+| 366 | Javohir Usmonov      | javohir2     | jv251 |
+| 367 | Iroda Jalilova       | iroda2       | ir252 |
+| 368 | Anvar Tursunov       | anvar2       | an252 |
+| 369 | Jasmina Xolmatova    | jasmina2     | jm252 |
+| 370 | Oybek Oripov         | oybek2       | oy252 |
+| 371 | Nafisa Akbarova      | nafisa2      | nf251 |
+| 372 | Shoxrux Bekmurodov   | shoxrux2     | sx252 |
+| 373 | Zilola Shukurova     | zilola2      | zi252 |
+| 374 | Murod Mirzayev       | murod2       | mr252 |
+| 375 | Amina Gʻaniyeva      | amina2       | am252 |
+| 376 | Sanjar Haydarov      | sanjar2      | sn252 |
+| 377 | Gulnoza Sattorova    | gulnoza2     | gu252 |
+| 378 | Umar Mahmudov        | umar2        | um254 |
+| 379 | Sitora Azizova       | sitora2      | si253 |
+| 380 | Muhammad Hamidov     | muhammad2    | mu254 |
+| 381 | Nodira Boboyeva      | nodira2      | no252 |
+| 382 | Sherzod Eshonqulov   | sherzod2     | sh252 |
+| 383 | Munisa Fayziyeva     | munisa3      | mu255 |
+| 384 | Ibrohim Iskandarov   | ibrohim2     | ib252 |
+| 385 | Robiya Jo‘rayeva     | robia2       | ro252 |
+| 386 | Doniyor Kamilov      | doniyor3     | do252 |
+| 387 | Shabnam Lutfullayeva | shabnam2     | sb253 |
+| 388 | Abubakr Murodov      | abubakr2     | ab252 |
+| 389 | Maftuna Nurmatova    | maftuna2     | mf252 |
+| 390 | Ozod Olimov          | ozod2        | oz252 |
+| 391 | Hadicha Po‘latova    | hadicha2     | ha252 |
+| 392 | Akbar Qurbonov       | akbar2       | ak252 |
+| 393 | Yasmina Raxmonova    | yasmina3     | ys251 |
+| 394 | Temur Soliyev        | temur3       | tm252 |
+| 395 | Sevinch Temirova     | sevinch2     | se252 |
+| 396 | Jahongir Valiyev     | jahongir2    | jh252 |
+| 397 | Nargiza Yo‘ldosheva  | nargiza2     | nr252 |
+| 398 | Said Zokirov         | said2        | sd252 |
+| 399 | Kamila Abduqodirova  | kamila2      | km252 |
+| 400 | Asilbek Mansurov     | asilbek2     | as253 |
+| 401 | Zebo Karimova        | zebo2        | ze252 |
+| 402 | Firdavs Ismoilov     | firdavs3     | fd252 |
+| 403 | Umida Abdullayeva    | umida2       | ui252 |
+| 404 | Miraziz Rahimov      | miraziz2     | mi252 |
+| 405 | Shukrona Toshmatova  | shukrona3    | sk253 |
+| 406 | Suhrob Saidov        | suhrob2      | su252 |
+| 407 | Durdona Qodirova     | durdona3     | du253 |
+| 408 | Shahzod Nazarov      | shahzod2     | sz252 |
+| 409 | Ruxshona Ergasheva   | ruxshona2    | ru253 |
+| 410 | Komil Yusupov        | komil2       | ko252 |
+| 411 | Samira Aliyeva       | samira2      | sm252 |
+| 412 | Laziz Rasulov        | laziz2       | la252 |
+| 413 | Oydin Umarova        | oydin2       | od252 |
+| 414 | Elyor Sobirov        | elyor2       | el252 |
+| 415 | Mubina Mamatova      | mubina2      | mb252 |
+| 416 | Zohid Usmonov        | zohid2       | zo252 |
+| 417 | Marjona Jalilova     | marjona2     | mj252 |
+| 418 | Akmal Tursunov        | akmal2       | ak253 |
+| 419 | Nigina Xolmatova      | nigina2      | ni253 |
+| 420 | Farrux Oripov         | farrux2      | fa252 |
+| 421 | Shabnam Akbarova      | shabnam3     | sb254 |
+| 422 | Asad Bekmurodov       | asad2        | as254 |
+| 423 | Durdona Shukurova     | durdona4     | du254 |
+| 424 | Anvar Mirzayev        | anvar3       | an253 |
+| 425 | Gulrux Gʻaniyeva      | gulrux2      | gr252 |
+| 426 | Zohid Haydarov        | zohid3       | zo253 |
+| 427 | Maftuna Sattorova     | maftuna3     | mf253 |
+| 428 | Miraziz Mahmudov      | miraziz3     | mi253 |
+| 429 | Lola Azizova          | lola2        | lo252 |
+| 430 | Umar Hamidov          | umar3        | um255 |
+| 431 | Nafisa Boboyeva       | nafisa3      | nf252 |
+| 432 | Elyor Eshonqulov      | elyor3       | el253 |
+| 433 | Sevinch Fayziyeva     | sevinch3     | se253 |
+| 434 | Murod Iskandarov      | murod3       | mr253 |
+| 435 | Ziyoda Jo‘rayeva      | ziyoda2      | zy252 |
+| 436 | Javohir Kamilov       | javohir3     | jv252 |
+| 437 | Rayhona Lutfullayeva  | rayhona3     | ra253 |
+| 438 | Bobur Murodov         | bobur3       | bo253 |
+| 439 | Mohira Nurmatova      | mohira3      | mo253 |
+| 440 | Kamron Olimov         | kamron3      | ka253 |
+| 441 | Shirin Po‘latova      | shirin3      | sh253 |
+| 442 | Rustam Qurbonov       | rustam3      | rs253 |
+| 443 | Aziza Raxmonova       | aziza3       | az254 |
+| 444 | Sanjar Soliyev        | sanjar3      | sn253 |
+| 445 | Malika Temirova       | malika3      | ml253 |
+| 446 | Sherzod Valiyev       | sherzod3     | sh253 |
+| 447 | Munisa Yo‘ldosheva    | munisa4      | mu256 |
+| 448 | Ibrohim Zokirov       | ibrohim3     | ib253 |
+| 449 | Sitora Abduqodirova   | sitora3      | si254 |
+| 450 | Akbar Mansurov        | akbar3       | ak254 |
+| 451 | Madina Karimova       | madina3      | ma252 |
+| 452 | Aziz Ismoilov         | aziz3        | az255 |
+| 453 | Jasmina Abdullayeva   | jasmina3     | jm253 |
+| 454 | Bekzod Rahimov        | bekzod3      | be253 |
+| 455 | Sabina Toshmatova     | sabina3      | sa253 |
+| 456 | Temur Saidov          | temur4       | te253 |
+| 457 | Zarina Qodirova       | zarina3      | za254 |
+| 458 | Sardor Nazarov        | sardor3      | sr253 |
+| 459 | Feruza Ergasheva      | feruza3      | fe253 |
+| 460 | Umid Yusupov          | umid3        | um256 |
+| 461 | Nilufar Aliyeva       | nilufar3     | ni254 |
+| 462 | Diyor Rasulov         | diyor3       | di253 |
+| 463 | Jasmina Umarova       | jasmina4     | jm254 |
+| 464 | Farrux Sobirov        | farrux3      | fa253 |
+| 465 | Amina Mamatova        | amina3       | am253 |
+| 466 | Oybek Usmonov         | oybek3       | oy253 |
+| 467 | Rayhona Jalilova      | rayhona4     | ra254 |
+| 468 | Javohir Tursunov      | javohir4     | ja254 |
+| 469 | Munisa Xolmatova      | munisa5      | mu257 |
+| 470 | Bobur Oripov          | bobur4       | bo254 |
+| 471 | Shahrizoda Akbarova   | shahrizoda2  | sr252 |
+| 472 | Doniyor Bekmurodov    | doniyor4     | do253 |
+| 473 | Hadicha Shukurova     | hadicha3     | ha253 |
+| 474 | Asilbek Mirzayev      | asilbek3     | as254 |
+| 475 | Umida Gʻaniyeva       | umida3       | ui253 |
+| 476 | Zafar Haydarov        | zafar3       | za255 |
+| 477 | Shukrona Sattorova    | shukrona4    | sk254 |
+| 478 | Suhrob Mahmudov       | suhrob3      | su253 |
+| 479 | Iroda Azizova         | iroda3       | ir253 |
+| 480 | Islom Hamidov         | islom3       | is253 |
+| 481 | Nargiza Boboyeva      | nargiza3     | nr253 |
+| 482 | Muhammad Eshonqulov   | muhammad3    | mu258 |
+| 483 | Zebo Fayziyeva        | zebo3        | ze253 |
+| 484 | Abubakr Iskandarov    | abubakr3     | ab253 |
+| 485 | Samira Jo‘rayeva      | samira3      | sm253 |
+| 486 | Mironshoh Kamilov     | mironshoh2   | ms252 |
+| 487 | Mavluda Lutfullayeva  | mavluda2     | mv252 |
+| 488 | Jahongir Murodov      | jahongir3    | jh253 |
+| 489 | Shabnam Nurmatova     | shabnam4     | sb255 |
+| 490 | Muhammadali Olimov    | muhammadali2 | ma253 |
+| 491 | Asal Po‘latova        | asal2        | as255 |
+| 492 | Zohid Qurbonov        | zohid4       | zo254 |
+| 493 | Marjona Raxmonova     | marjona3     | mj253 |
+| 494 | Ozod Soliyev          | ozod3        | oz253 |
+| 495 | Gulnoza Temirova      | gulnoza3     | gu253 |
+| 496 | Firdavs Valiyev       | firdavs4     | fi253 |
+| 497 | Zilola Yo‘ldosheva    | zilola3      | zi253 |
+| 498 | Komil Zokirov         | komil3       | ko253 |
+| 499 | Ruxshona Abduqodirova | ruxshona3    | ru254 |
+| 500 | Said Mansurov         | said3        | sa254 |

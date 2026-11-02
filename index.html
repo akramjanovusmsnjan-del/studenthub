@@ -1,0 +1,138 @@
+
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VELORA | Student Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="background-glow"></div>
+
+    <main class="container">
+
+        <!-- LOGIN OYNASI -->
+        <section class="login-card" id="loginScreen">
+
+            <div class="logo">
+                <span>V</span>
+            </div>
+
+            <h1>VELORA</h1>
+            <p class="subtitle">O‘QUV MARKAZI</p>
+
+            <div class="line"></div>
+
+            <h2>Shaxsiy kabinet</h2>
+            <p class="description">
+                Tizimga kirish uchun login va parolingizni kiriting.
+            </p>
+
+            <form id="loginForm">
+
+                <label>Login</label>
+                <div class="input-box">
+                    <span>♙</span>
+                    <input
+                        type="text"
+                        id="username"
+                        placeholder="Loginingizni kiriting"
+                        autocomplete="username"
+                        required
+                    >
+                </div>
+
+                <label>Parol</label>
+                <div class="input-box">
+                    <span>♜</span>
+                    <input
+                        type="password"
+                        id="password"
+                        placeholder="Parolingizni kiriting"
+                        autocomplete="current-password"
+                        required
+                    >
+                </div>
+
+                <button type="submit" id="loginBtn">
+                    TIZIMGA KIRISH <span>→</span>
+                </button>
+
+                <p id="errorMessage"></p>
+
+            </form>
+
+            <div class="footer">
+                VELORA O‘QUV MARKAZI © 2026
+            </div>
+
+        </section>
+
+        <!-- SHAXSIY KABINET -->
+        <section class="dashboard" id="dashboard">
+
+            <header class="topbar">
+                <div class="brand">
+                    <div class="small-logo">V</div>
+                    <div>
+                        <h2>VELORA</h2>
+                        <p>STUDENT HUB</p>
+                    </div>
+                </div>
+
+                <button class="logout-btn" id="logoutBtn">
+                    Chiqish ↗
+                </button>
+            </header>
+
+            <div class="welcome">
+                <p class="welcome-label">SHAXSIY KABINET</p>
+                <h1>Xush kelibsiz!</h1>
+                <p>Sizning o‘quv kabinetingizga xush kelibsiz.</p>
+            </div>
+
+            <div class="student-card">
+                <div class="profile-icon">♙</div>
+
+                <div class="student-info">
+                    <p>O‘QUVCHI</p>
+                    <h2 id="studentName">O‘quvchi ismi</h2>
+                    <span id="groupInfo">Guruh</span>
+                </div>
+            </div>
+
+            <div class="details">
+                <div class="detail-card">
+                    <span>ISM FAMILIYA</span>
+                    <h3 id="nameInfo">—</h3>
+                </div>
+
+                <div class="detail-card">
+                    <span>GURUH</span>
+                    <h3 id="groupInfo2">—</h3>
+                </div>
+
+                <div class="detail-card">
+                    <span>JINSI</span>
+                    <h3 id="genderInfo">—</h3>
+                </div>
+
+                <div class="detail-card">
+                    <span>O‘QUVCHI RAQAMI</span>
+                    <h3 id="numberInfo">—</h3>
+                </div>
+            </div>
+
+            <footer class="dashboard-footer">
+                VELORA O‘QUV MARKAZI — BILIM SARI BIRGALIKDA!
+            </footer>
+
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
